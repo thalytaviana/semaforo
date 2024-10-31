@@ -27,6 +27,7 @@ Tabela 1 - Componentes
 | Cabo USB-C | 1 |
 | Resistores 330 Ohms | 1|
 | Buzzer | 1
+| Protoboard | 1 |
 
 </div>
 
