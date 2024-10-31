@@ -25,13 +25,13 @@ ___
 
 <div align="center">
 <sub>Figura 1 - Montagem do semáforo </sub><br>
-<img src="./assets/semaforo1.png" width="80%" ><br>
+<img src="../assets/semaforo1.png" width="80%" ><br>
 <sup>Fonte: Material produzido pelo autor (2024)</sup>
 </div>
 
 <div align="center">
 <sub>Figura 2 - Montagem do semáforo </sub><br>
-<img src="./assets/semaforo2.png" width="80%" ><br>
+<img src="../assets/semaforo2.png" width="80%" ><br>
 <sup>Fonte: Material produzido pelo autor (2024)</sup>
 </div>
 
